@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: data
+Version: 0.0.1
+Summary: my_package
+Author: Voddula Karthik Reddy
+Author-email: <vkr2471@gmail.com
+Keywords: python,first package
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+
+this 
